@@ -1,0 +1,66 @@
+#heading{
+    color: blue;
+    background-color: bisque;
+}
+.ss{
+    color: blueviolet;
+    background-color: black;
+    padding-top: 2cm;
+    padding-bottom: 2cm;
+}
+
+.pp{
+    border: 1cm;
+    border-color: blue;
+    background-color: aqua;
+    border-radius: 1cm;
+
+
+}
+
+.pp:hover{
+    background-color: blue;
+}
+.pp:active{
+    background-color: yellowgreen;
+}
+body{
+    background-image: url();
+
+}
+
+.box{
+    background-color: rgb(233, 184, 24);
+    color: rgba(36, 15, 6, 0.938);
+    width: 60px;
+    height: 60px;
+    
+    position: relative;
+    left: 70px;
+    top: 20px;
+}
+
+.box1{
+    background-color: chartreuse;
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    color: black;
+    
+}
+
+ul{
+    background-color: aquamarine;
+    color: brown;
+    list-style: none;
+}
+
+ul li{
+    border: 10px;
+    box-sizing: 10px ;
+    border-radius: 20px;
+    border-color: black;
+    margin: 2px;
+
+
+}
